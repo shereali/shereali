@@ -2,10 +2,10 @@
 
 # Hi there, I'm Shere Ali!
 
-# 🔭 I’m currently working on Laravel Vue Js
+- 🔭 I’m currently working on Laravel Vue Js
 
-# 🌱 I’m currently learning Python, React, Next js
-<--
+- 🌱 I’m currently learning Python, React, Next js
+
 - 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,7 @@
 - 😄 Pronouns: ...
 
 - ⚡ Fun fact: ...
--->
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shereali&langs_count=8" />
 
