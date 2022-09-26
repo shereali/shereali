@@ -1,4 +1,21 @@
+<img src="https://www.canva.com/design/DAFNTwyh6hE/jF1vqhE3bXmNo0Ci7MTbWg/edit?utm_content=DAFNTwyh6hE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
 # Hi there, I'm Shere Ali!
+
+# 🔭 I’m currently working on Laravel Vue Js
+
+# 🌱 I’m currently learning Python, React, Next js
+
+# 👯 I’m looking to collaborate on ...
+
+# 🤔 I’m looking for help with ...
+
+# 💬 Ask me about ...
+
+# 📫 How to reach me: ...
+
+# 😄 Pronouns: ...
+
+# ⚡ Fun fact: ...
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shereali&show_icons=true&theme=radical" />
 
