@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact: ...
 
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shereali&langs_count=8" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shereali&show_icons=true&theme=radical" />
@@ -29,3 +28,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
