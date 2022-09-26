@@ -1,4 +1,5 @@
-<img src="https://www.canva.com/design/DAFNTwyh6hE/jF1vqhE3bXmNo0Ci7MTbWg/edit?utm_content=DAFNTwyh6hE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+<img width="100%" src="https://www.canva.com/design/DAFNTwyh6hE/jF1vqhE3bXmNo0Ci7MTbWg/edit?utm_content=DAFNTwyh6hE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+
 # Hi there, I'm Shere Ali!
 
 # 🔭 I’m currently working on Laravel Vue Js
