@@ -2,9 +2,7 @@
 
 # Hi there, I'm Shere Ali!
 
-- 🔭 I’m currently working on Laravel Vue Js
-
-- 🌱 I’m currently learning Python, React, Next js
+- 🔭 I’m currently working on Cyber Security, PHP, Laravel, Python Django, Golang, C++, Javascript, Vue Js, React Js, Nuxt Js, Next Js
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shereali&langs_count=8" />
 
