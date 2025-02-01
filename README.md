@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.imgur.com/okc0IC8.png" />
+<img width="100%" src="[https://imgur.com/a/7hO7pJF](https://imgur.com/a/7hO7pJF)" />
 
 # Hi there, I'm Shere Ali!
 
